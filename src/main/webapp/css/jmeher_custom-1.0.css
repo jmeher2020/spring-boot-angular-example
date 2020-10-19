@@ -1,0 +1,37 @@
+body{
+	text-align: -webkit-center;
+	font-size:20px;
+}
+
+.form-group {
+	text-align: left;
+}
+
+
+i{
+	font-size: 20px !important;
+	color: #007bff;
+}
+
+.content-div{
+	border:1px solid black;
+	width: max-content;
+	padding:20px;
+}
+
+@media (min-width: 768px){
+	.col-md-2 {
+	     -ms-flex: 0 0 20%;
+	    flex: 0 0 100%;
+	    max-width: 100%;
+	    display:inline-block;
+	}
+
+	.col-md-7 {
+	    -ms-flex: 0 0 100%;
+	    flex: 0 0 100%;
+	    max-width: 100%;
+	    display:inline-block;
+	}
+}
+

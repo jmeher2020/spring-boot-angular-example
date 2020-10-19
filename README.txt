@@ -27,5 +27,5 @@ Steps to Configure and Run Project:
 9. In your Web Browser (Chrome) open the URL :  http://localhost:8081/jmeher/index
 10. Click on Add Customer Details to start adding Customer to DB
 11. Click on Fetch Customer List to perform other operations on Customer and their addresses
-12. Please refer the Screen Shots Provided for each functional flow.
+12. Please refer the Screen Shots Provided for each functional screens.
 13. Thank You!
